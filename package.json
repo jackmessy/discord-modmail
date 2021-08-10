@@ -1,0 +1,28 @@
+{
+  "name": "discord-modmail",
+  "version": "1.0.0",
+  "description": "A Discord Modmail Bot For Discord Servers",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackmessy/discord-modmail"
+  },
+  "dependencies": {
+    "discord-sender": "^1.2.9",
+    "discord.js": "^12.5.3",
+    "modmail.js": "^2.0.3",
+    "bsapi.js": "^1.0.8",
+    "emz": "^0.1.0",
+    "sandy.js": "1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jackmessy/discord-modmail/issues"
+  },
+  "homepage": "https://github.com/jackmessy"
+}
